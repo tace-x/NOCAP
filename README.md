@@ -14,7 +14,7 @@ Community opinion is never the official NO CAP verdict.
 - Tailwind CSS
 - Lucide React
 - React Router
-- **AI Engine**: NVIDIA NIM API (`google/gemma-4-31b-it`)
+- **AI Engine**: NVIDIA NIM API (`google/gemma-4-31b-it`) 
 
 ## AI Architecture
 
